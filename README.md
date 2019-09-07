@@ -9,7 +9,7 @@ Run `delta-of-delta-demo` to see examples of the output.
 ## Timestamp Encoding
 
 This is the simplest encoding scheme, in this one we just store the timestamps. This is inefficient
-because the raw bytes of successive timestamps only change a little over time.
+because the raw bytes of successive timestamps change very little over time.
 
 This can be used with the `timestamp_encode` function or used when streaming data with the `Encoder` class.
 
