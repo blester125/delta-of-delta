@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.com/blester125/delta-of-delta.svg?branch=master)](https://travis-ci.com/blester125/delta-of-delta)
 
+[![Actions Status](https://github.com/blester125/delta-of-delta/workflows/Unit%20Test/badge.svg)](https://github.com/blester125/delta-of-delta/actions)
+
 This has simple implementation of various ways to encoding timestamps used in time series databases.
 
 Run `delta-of-delta-demo` to see examples of the output.
